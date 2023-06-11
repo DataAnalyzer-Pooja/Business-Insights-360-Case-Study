@@ -23,7 +23,7 @@ The project includes the following:-
 
 # Project Highlights 
  1. Profit & Loss Statement provides insights to the finance team about the financial performance across customers, products, and markets. 
- 2. Analysis of customer and product performance over key metrics like net sales and gross margin
+ 2. Analysis of customer and product performance over key metrics like net sales and gross margin.
  3. Analysis of sales forecast accuracy, net error and risk profile provides insights for supply chain management. 
  4. Consolidated top insights from each dimension of business for company executives. 
 
