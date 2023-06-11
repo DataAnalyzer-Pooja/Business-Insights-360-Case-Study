@@ -13,3 +13,14 @@ AtliQ Hardware uses different data that has information about their work, sales,
 
 # Business Task
 Use this dataset for data cleaning, exploration and visualization to uncover the business insights. Following tasks need to be peformed while designing dashboard. 
+
+
+
+
+# Deliverables
+The project includes the following:-
+1. Power BI Dashboard(https://www.novypro.com/project/business-insights-360-power-bi-2).
+
+I hope this project helps you understand the methane emission trends. If you have any questions or suggestions, please don't hesitate to reach out.  
+- [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
+- [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
