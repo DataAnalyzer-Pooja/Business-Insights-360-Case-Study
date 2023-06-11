@@ -10,12 +10,12 @@ AtliQ Hardware (a hypothetical company) faces challenges in effectively using an
 The data used by AtliQ Hardware consists of a variety of information related to their operations, sales, customer demographics and market trends. It includes data from different countries where the company operates, allowing for a comprehensive understading of their business performance and market dynamics. The dataset is diverse and extensive which covers wide variety of segments such as product sales, regional market trends, customer preferences and financial information.
 
 # Business Task
-Use this dataset for data cleaning, exploration and visualization to uncover the business insights. Following tasks need to be peformed while designing dashboard. 
-1. Prepare Finance View : Metrics, P & L Table structure, Last Year Calculations, Quarters & YTD/YTG slicer, Dynamic switch on P & L table between targets and Last year, Toggle button to switch between visuals, Performance chart, top product/market/region visual,
-2. Prepare Sales View : Performance Matrix visual, Customer & Product Performance, Unit Economics Visuals, 
-3. Prepare Marketing View :
+Use this dataset for data cleaning, exploration and visualization to uncover the business insights. Following tasks need to be peformed while designing the dashboard. 
+1. Prepare Finance View : Metrics, P & L table structure, Last year calculations, Quarters & YTD/YTG slicer, Dynamic switch on P & L table between targets and last year, Performance chart, top product/market/region visual.
+2. Prepare Sales View : Performance matrix visual, Toggle button to switch between visuals, Customer & Product performance chart, Unit Economics visuals. 
+3. Prepare Marketing View : Performance matrix visual, Tooltip to represent trends, 
 4. Prepare Supply Chain View : Key metrics such as net error, 
-5. Prepare Executive View :
+5. Prepare Executive View : KPI, Market share visual.
 
 
 
