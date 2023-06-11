@@ -11,6 +11,11 @@ The data used by AtliQ Hardware consists of a variety of information related to 
 
 # Business Task
 Use this dataset for data cleaning, exploration and visualization to uncover the business insights. Following tasks need to be peformed while designing dashboard. 
+1. Prepare Finance View : Metrics, P & L Table structure, Last Year Calculations, Quarters & YTD/YTG slicer, Dynamic switch on P & L table between targets and Last year, Toggle button to switch between visuals, Performance chart, top product/market/region visual,
+2. Prepare Sales View : Performance Matrix visual, Customer & Product Performance, Unit Economics Visuals, 
+3. Prepare Marketing View :
+4. Prepare Supply Chain View : Key metrics such as net error, 
+5. Prepare Executive View :
 
 
 
