@@ -14,8 +14,8 @@ Use this dataset for data cleaning, exploration and visualization to uncover the
 1. Prepare Finance View : Metrics, P & L table structure, Last year calculations, Quarters & YTD/YTG slicer, Dynamic switch on P & L table between targets and last year, Performance chart, top product/market/region visual.
 2. Prepare Sales View : Performance matrix visual, Toggle button to switch between visuals, Customer & Product performance chart, Unit Economics visuals. 
 3. Prepare Marketing View : Performance matrix visual, Tooltip to represent trends, Product performance chart, Region/market/product performance chart. 
-4. Prepare Supply Chain View : Key metrics by product and customer, accuracy/net error trend chart.
-5. Prepare Executive View : KPI's such as net sales, gross margin %, net profit % and forecast accuracy %, Market share visual, Revenue by division & channel.
+4. Prepare Supply Chain View : Key metrics by product and customer visual, accuracy/net error trend chart.
+5. Prepare Executive View : KPI's such as net sales, gross margin %, net profit % and forecast accuracy %, Market share visual, Revenue by division & channel visual.
 
 # Deliverables
 The project includes the following:-
