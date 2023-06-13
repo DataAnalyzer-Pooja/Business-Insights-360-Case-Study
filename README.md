@@ -19,7 +19,7 @@ Use this dataset for data cleaning, exploration and visualization to uncover the
 
 # Deliverables
 The project includes the following:-
-1. Power BI Dashboard(https://www.novypro.com/project/business-insights-360-power-bi-2).
+1. [Power BI Dashboard](https://www.novypro.com/project/business-insights-360-power-bi-2).
 
 # Project Highlights 
  1. Profit & Loss Statement provides insights to the finance team about the financial performance across customers, products, and markets. 
